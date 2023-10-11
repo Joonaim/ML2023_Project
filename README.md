@@ -5,3 +5,7 @@ This is a course project for Aalto-university course CS-C3240 - Machine Learning
 Helsinki weather data has been downloaded from [Ilmatieteen laitos open data](https://www.ilmatieteenlaitos.fi/avoin-data) and the Korkeasaari visitor statistics in `/Korkeasaari/` folder have been downloaded from [Helsingi region infoshare - Korkeasaaren Kävijämäärät](https://hri.fi/data/fi/dataset/korkeasaaren-kavijamaarat).
 
 The dataset `korkeasaari_dataset.csv` has been produced using `dataset.ipynb`. This is the dataset that is used in the project.
+
+The code for training and evaluating machine learning models that are discussed in the project report is in `model.ipynb`.
+
+The final project report is stored in `Predicting number of visitors at Korkeasaari with regression methods.pdf`.
